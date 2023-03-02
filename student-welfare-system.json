@@ -1,0 +1,39 @@
+{
+    "register" : [
+        {
+            "name" : "Shubham Vibhute",
+            "phone" : "9194714762",
+            "email" : "shubh@gmail.com",
+            "password" : "shubh2212",
+            "confirm_password" : "shubh2212"
+        },
+        {
+            "name" : "Shivyogi Vibhute",
+            "phone" : "8314713242",
+            "email" : "shiv@gmail.com",
+            "password" : "shv12345",
+            "confirm_password" : "shv12345"
+        },
+        {
+            "name" : "Shubham Goswami",
+            "phone" : "7317461323",
+            "email" : "goswami@gmail.com",
+            "password" : "shubham21",
+            "confirm_password" : "shubham21"
+        },
+        {
+            "name" : "Mansi Sindhu",
+            "phone" : "9183461266",
+            "email" : "sindhumansi@gmail.com",
+            "password" : "mansi@123",
+            "confirm_password" : "mansi@123"
+        },
+        {
+            "name" : "Suryakant Shintre",
+            "phone" : "8712643512",
+            "email" : "surya@gmail.com",
+            "password" : "surya789",
+            "confirm_password" : "surya789"
+        }
+    ]
+}
